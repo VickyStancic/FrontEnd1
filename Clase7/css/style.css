@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+header{
+    text-align: center;
+    background-color: #e5e5e5;
+}
+h1 , h3{
+    background-color: #c4c4c4;
+    text-transform: uppercase;
+    color: #005677;
+}
+ul{
+    list-style-type: none;
+}
+main section ul li span{
+   font-weight: bold;
+    
+}
+.fechas {
+    list-style-type: none;
+  }
+  footer{
+      text-align: center;
+      background-color: #005677;
+      color: white;
+      text-transform: uppercase;
+  }
+  
